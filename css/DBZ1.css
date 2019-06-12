@@ -1,0 +1,99 @@
+html, body{
+	text-align: center;
+	background-color: #D69404;
+	font-family: monospace,serif;
+	margin: 0;  
+}
+
+header{
+	background-color: #D13100;
+	padding: 40px;
+	text-align: center;
+}
+
+
+.about{
+	    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+img.big_image{
+	max-width: 120%;
+	border: 25px solid #7A0052;
+}
+
+p.caption{
+	font-size: 16px;
+	color: #523C0C;
+	font-style: italic;
+	text-align: center;
+}
+
+ol li{
+	display: block;
+	padding: 3px;
+	padding-right: 30px;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #C3C7C7;
+}
+
+a{
+	color: #FF1419;
+}
+
+ul{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+ul li{
+     display: inline-block;
+     margin: 0 10px;
+}
+
+footer ul li{
+     color: #350096; 
+}
+
+ul img{
+	max-width: 300px;
+}
+
+img.Trunks{
+	max-width: 336px;
+}
+
+img.Goten{
+	max-width: 320px;
+}
+
+img.Goku{
+	max-width: 400px;
+}
+
+img.Vegeta{
+	max-width: 500px;
+}
+
+ul img{
+    border-radius: 120px;
+    width: 500px;
+    border: 10px solid #CC0000;
+}
+
+h2{
+	text-decoration-color: #A6165B;
+	font-size: 2.2em;
+	text-decoration: underline;
+}
+
+ul p{
+	font-size: 20px;
+}
+
